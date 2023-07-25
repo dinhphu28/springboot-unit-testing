@@ -11,6 +11,7 @@ import lombok.*;
 @AllArgsConstructor
 @ToString
 @EqualsAndHashCode
+@Builder
 public class Student {
 
     @Id
